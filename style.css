@@ -1,0 +1,50 @@
+body {
+    background-color: #F5F8FF;
+}
+
+/* Стиль для дашборду */
+.dashboard {
+    position: fixed;       /* Фіксоване розміщення */
+    top: 0;
+    left: 0;
+    width: 250px;         /* Ширина дашборду */
+    height: 100vh;        /* Висота на весь екран */
+    background-color: #F5F8FF;
+    color: #313842;
+    padding: 20px;
+    box-sizing: border-box;
+
+    /* Додаємо правий контур (границю) */
+    border-right: 2px solid #C0CBDB; /* Колір і товщина правої границі */
+}
+
+/* Стиль для основного контенту */
+.content {
+    margin-left: 280px;   /* Відступ зліва, щоб не перекривати дашборд */
+    padding: 30px;
+}
+
+/* Декоративні стилі для елементів дашборду */
+.dashboard h1 {
+    margin-top: 0;
+    padding: 20px 20px;
+}
+
+/* Декоративні стилі для елементів дашборду */
+.dashboard h4 {
+    padding: 20px 0 0 0;
+}
+
+.dashboard ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.dashboard ul li {
+    margin: 50px 0;
+}
+
+.dashboard ul li a {
+    color: #313842;
+    text-decoration: none;
+}
